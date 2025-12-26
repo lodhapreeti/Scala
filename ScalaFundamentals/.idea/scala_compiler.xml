@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="ScalaFundamentals,ScalaFundamentals.main,ScalaFundamentals.test" />
+    <profile name="sbt 1" modules="ScalaFundamentals,ScalaFundamentals.main,ScalaFundamentals.test,scalafundamentals_7519,scalafundamentals_7519.main,scalafundamentals_7519.test" />
   </component>
 </project>
