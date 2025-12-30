@@ -1,4 +1,7 @@
-package com.ak.railway_reservation
+package com.ak.railway_reservation.user
+
+import com.ak.railway_reservation.{MySQLConnection, user}
+import com.ak.railway_reservation.user.User
 
 import java.sql.Connection
 
@@ -28,7 +31,7 @@ class UserRepository {
 
       val buffer = scala.collection.mutable.ListBuffer[User]()
       while (rs.next()) {
-        buffer += User(rs.getInt("id"), rs.getString("name"))
+        buffer += user.User(rs.getInt("id"), rs.getString("name"))
       }
       buffer.toList
     } finally {
