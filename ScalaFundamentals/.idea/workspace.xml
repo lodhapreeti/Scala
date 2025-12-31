@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="745d780b-500b-4ed0-9a8f-e604e1e1a07f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/dbmgmt/DBObject.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/dbmgmt/DatabaseManager.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/reservation/Reservation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/train/Train.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/user/User.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/MainApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/MainApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/User.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/UserRepository.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/user/UserRepository.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="36DDDFPhb6F6Bsg1GhknVdsFwx1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ErrorHandlingExamples.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "Application.ParametersExample.executor": "Run",
+    "Application.TestFlattenExample.executor": "Run",
+    "Application.TraitsExample.executor": "Run",
+    "Application.caseClassExample.executor": "Run",
+    "Application.caseMatchExample.executor": "Run",
+    "Application.classExample.executor": "Run",
+    "Application.collectionExamples.executor": "Run",
+    "Application.companionClassExample.executor": "Run",
+    "Application.companionObjectExample.executor": "Run",
+    "Application.conditionalsExamples.executor": "Run",
+    "Application.constructorExamples.executor": "Run",
+    "Application.enumExample.executor": "Debug",
+    "Application.exceptionExample.executor": "Run",
+    "Application.extensionMethodExamples.executor": "Run",
+    "Application.flatMapExamples.executor": "Run",
+    "Application.foldFunctionsExample.executor": "Run",
+    "Application.funcMain.executor": "Run",
+    "Application.functionExamples.executor": "Run",
+    "Application.functionPracticeExample.executor": "Run",
+    "Application.groupingExamples.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.hello2.executor": "Run",
+    "Application.hello3.executor": "Run",
+    "Application.inheritanceExample.executor": "Run",
+    "Application.inputFunc.executor": "Run",
+    "Application.lambdaExample.executor": "Run",
+    "Application.lambdaPracticeExample.executor": "Run",
+    "Application.localFunctionExample.executor": "Run",
+    "Application.mainFn.executor": "Run",
+    "Application.mainfn.executor": "Run",
+    "Application.nestedClassExample.executor": "Run",
+    "Application.numberExample.executor": "Run",
+    "Application.operatorExample.executor": "Run",
+    "Application.parametersExample.executor": "Run",
+    "Application.partialFunctionsExample.executor": "Run",
+    "Application.patternMatchingExamples.executor": "Run",
+    "Application.sealedClassExample.executor": "Run",
+    "Application.strings.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.typeClassExample.executor": "Run",
+    "Application.zipExamples.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/preetilodha/Documents/work_directory/IntellijWorkspace/Scala/ScalaFundamentals",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/com/ak/railway_reservation/dbmgmt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mainfn">
+    <configuration name="MainApp" type="Application" factoryName="Application">
+      <envs>
+        <env name="DB_HOST" value="162.241.123.39" />
+        <env name="DB_NAME" value="theco1f0_railway_reservation" />
+        <env name="DB_PASSWORD" value="Preeti@1234" />
+        <env name="DB_USER" value="theco1f0_preeti" />
+        <env name="DB_PORT" value="3306" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.ak.railway_reservation.MainApp" />
+      <module name="ScalaFundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ak.railway_reservation.reservation.metadata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="extensionMethodExamples" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala.practice.extensionMethodExamples" />
+      <module name="ScalaFundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainfn" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="DB_HOST" value="162.241.123.39" />
+        <env name="DB_NAME" value="theco1f0_railway_reservation" />
+        <env name="DB_PASSWORD" value="Preeti@1234" />
+        <env name="DB_USER" value="theco1f0_preeti" />
+        <env name="DB_PORT" value="3306" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.ak.railway_reservation.mainfn" />
+      <module name="ScalaFundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ak.railway_reservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="DB_HOST" value="162.241.123.39" />
+        <env name="DB_NAME" value="theco1f0_railway_reservation" />
+        <env name="DB_PASSWORD" value="Preeti@1234" />
+        <env name="DB_USER" value="theco1f0_preeti" />
+        <env name="DB_PORT" value="3306" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.ak.railway_reservation.dbmgmt.test" />
+      <module name="ScalaFundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ak.railway_reservation.dbmgmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="typeClassExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala.practice.typeClassExample" />
+      <module name="ScalaFundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zipExamples" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala.practice.zipExamples" />
+      <module name="ScalaFundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApp" />
+      <item itemvalue="Application.mainfn" />
+      <item itemvalue="Application.extensionMethodExamples" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.typeClassExample" />
+      <item itemvalue="Application.zipExamples" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainfn" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.extensionMethodExamples" />
+        <item itemvalue="Application.typeClassExample" />
+        <item itemvalue="Application.zipExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="745d780b-500b-4ed0-9a8f-e604e1e1a07f" name="Changes" comment="" />
+      <created>1764532126931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764532126931</updated>
+    </task>
+    <servers />
+  </component>
+</project>
